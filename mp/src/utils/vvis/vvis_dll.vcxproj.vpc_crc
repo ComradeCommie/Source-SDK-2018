@@ -1,11 +1,11 @@
 [vpc crc file version 2]
-b9c20ec3 C:\Users\BEMcd_000\OneDrive\sdk2013\mp\src\devtools\bin\vpc.exe
+b9c20ec3 C:\Users\BEMcd_000\OneDrive\Source-SDK-2018\mp\src\devtools\bin\vpc.exe
 _Nc_VS2013/vpcgame:hl2mp_
 4adcfd72 vvis_dll.vpc
 4832e67a ..\..\vpc_scripts\source_dll_base.vpc
 d752cf80 ..\..\vpc_scripts\platform_dirs.vpc
 6c4a5ff1 ..\..\vpc_scripts\source_base.vpc
-34ca56eb ..\..\vpc_scripts\source_dll_win32_base.vpc
+b70eecc1 ..\..\vpc_scripts\source_dll_win32_base.vpc
 486b766d ..\..\vpc_scripts\version.vpc
 846102f0 ..\..\vpc_scripts\loadaddress.vpc
 1355b11f ..\..\vpc_scripts\source_dll_win32_debug.vpc
